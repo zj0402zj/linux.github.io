@@ -5,7 +5,7 @@
 
 ## 示例图片
 <!-- 修正后的图片引用（使用你的网络图片链接） -->
-![Linux示例图](https://ts1.tc-mm.bing.net/th/id/R-C.987f582c510be58755c4933cda68d525?rik=C0D21hDVYxOsw&riu=http%3a%2f%2fimg.pconline.com.cn%2fimages%2fupload%2fupc%2ftx%2fitbbs%2f1505%2f25%2fc10%2f104002310_1432532500843_mthumb.jpg)
+![Linux示例图][([https://ts1.tc-mm.bing.net/th/id/R-C.987f582c510be58755c4933cda68d525?rik=C0D21hDVYxOsw&riu=http%3a%2f%2fimg.pconline.com.cn%2fimages%2fupload%2fupc%2ftx%2fitbbs%2f1505%2f25%2fc10%2f104002310_1432532500843_mthumb.jpg)](https://ts1.tc.mm.bing.net/th/id/OIP-C.mH9YLFEL5YdVxJM82mjVJQHaEo?rs=1&pid=ImgDetMain&o=7&rm=3)](https://ts1.tc.mm.bing.net/th/id/OIP-C.mH9YLFEL5YdVxJM82mjVJQHaEo?rs=1&pid=ImgDetMain&o=7&rm=3)
 ## 后续计划
 - 整理常用Linux命令手册
 - 分享服务器运维实战案例
